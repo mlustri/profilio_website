@@ -22,7 +22,8 @@ body {
   border: 1px solid black;
 }
 
-.col h5 {
- margin: 5px 0;  /* top/bottom = 5px, left/right = 0 */
-  padding: 0;     /* remove any padding browsers might apply */
-}
+.col h5  { margin: 5px 0; /* top/bottom = 5px, left/right = 0 */ 
+         padding: 0; /* remove any padding browsers might apply */ 
+         
+         }
+
