@@ -18,8 +18,8 @@ body {
 
 .col {
   flex: 1;
-  display: block;
-  padding: 0px;
+  
+  padding: 15px;
   border: 1px solid black;
 }
 .col h5 {
