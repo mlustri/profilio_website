@@ -5,10 +5,7 @@ body {
   background-color: lightblue;
 }
 
-h2, h6 {
-  margin-top: 5px !important;
-  margin-bottom: 2px !important;
-}
+
 .centered {
   text-align: center;
 }
@@ -22,4 +19,8 @@ h2, h6 {
   flex: 1;
   padding: 15px;
   border: 1px solid black;
+}
+.col h6 {
+  margin-top: 5px;    /* smaller space above */
+  margin-bottom: 5px; /* smaller space below */
 }
